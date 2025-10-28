@@ -1,0 +1,13 @@
+Date: The date of the recorded Bitcoin price data.
+
+Open: The opening price of Bitcoin for that day.
+
+High: The highest price Bitcoin reached during that day.
+
+Low: The lowest price Bitcoin reached during that day.
+
+Close(Target): The closing price of Bitcoin for that day.
+
+Adj Close: The adjusted closing price, which accounts for any corporate actions like stock splits or dividends. For cryptocurrencies like Bitcoin, this is typically the same as the closing price.
+
+Volume: The total number of Bitcoin units traded during that day.
